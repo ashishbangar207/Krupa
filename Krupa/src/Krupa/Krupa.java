@@ -6,6 +6,9 @@ public class Krupa {
 		System.out.println("Hello Ashish bangar");
 		System.out.println("Hello Sagar");
 		System.out.println("Hii Ashish Krushna Bangar");
+		String a = "Ashish";
+		String B ="Bangar";
+		System.out.println(a+B);
 	}
 
 }
