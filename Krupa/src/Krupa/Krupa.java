@@ -5,6 +5,7 @@ public class Krupa {
 		System.out.println("hello krupa");
 		System.out.println("Hello Ashish bangar");
 		System.out.println("Hello Sagar");
+		System.out.println("Hii Ashish Krushna Bangar");
 	}
 
 }
